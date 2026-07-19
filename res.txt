@@ -1,0 +1,46 @@
+While I cannot directly generate and download a .pdf file to your device (as I am a text-based AI), I have completely rewritten and formatted your resume below.
+I have applied all the "Senior" level upgrades, removed the awkward brackets, fixed the tenses, and condensed it perfectly so that **if you copy and paste this into Google Docs or Microsoft Word, it will fit beautifully on one single page.**
+Here is your elevated, senior-level resume text.
+**Kailasam Sivalesh Reddy**
+Hyderabad, India | +91 70135-49895 | [Your Email] | [Your LinkedIn URL]
+**Senior Data Scientist — ML & AI**
+Senior Data Scientist with 4.5 years of experience architecting and delivering production ML/AI solutions across healthcare RCM, FinTech, and retail. Proven track record of owning the end-to-end ML lifecycle and translating ambiguous stakeholder needs into scalable, automated outcomes. Expertise in LLMs/GenAI, NLP, time-series forecasting, and building high-impact automation pipelines.
+**Core Skills**
+ * **ML & AI:** LLMs (Azure OpenAI, RAG, Agentic Systems), Deep Learning (TensorFlow, Keras), NLP, Time-Series Forecasting, Anomaly/Fraud Detection.
+ * **Languages & Data:** Python, R, SQL, PySpark.
+ * **Cloud & MLOps:** Azure (Machine Learning, AI Search, Databricks, Data Lake, OpenAI Service).
+ * **Tools:** Power BI, Tableau, Git, Excel.
+**Professional Experience**
+**Primera Medical Technologies** | Hyderabad, India
+*Data Scientist* | Jan 2024 – Present
+ * **Architected and deployed** EOB & payer correspondence automation using OCR + NLP for document classification and extraction, improving the automation rate by **98%** and reducing turnaround time by **6 hours**.
+ * **Designed** a payment posting automation pipeline to convert paper EOBs to X12 835 formats for EPIC integration, reducing manual effort and driving posting accuracy to **90%**.
+ * **Spearheaded** ROI (Release of Information) automation to process medical record requests via entity extraction and compliance checks, improving SLA adherence by **96%** with fully maintained auditability.
+ * **Developed** medical coding automation prototypes utilizing ICD/CPT suggestions and QA signals, assisting coders to reduce coding time by **82%** while achieving **99%** accuracy.
+ * **Partnered** with cross-functional RCM operations, compliance, and engineering teams to define KPIs/SLAs and establish monitoring for extraction accuracy, improving production stability by **92%**.
+**HAPPAY** | Bangalore, India
+*Data Scientist* | Oct 2022 – Dec 2023
+ * **Built and scaled** a Transaction Intelligence system to identify fraudulent and duplicate submissions using rules and ML signals (policy violations, price anomalies), reducing duplicate leakage by **60%**.
+ * **Engineered** robust fraud detection models and risk scoring frameworks to flag suspicious transactions, significantly improving precision/recall and reducing false positives.
+ * **Developed** an augmented analytics engine utilizing GPT and NLP to capture client/business requirements, accelerating insight generation and reducing analysis turnaround time.
+**Landmark Group** | Bangalore, India
+*Associate Data Scientist* | Aug 2021 – Sep 2022
+ * **Built and deployed** production-grade demand forecasting models incorporating seasonality and promotions, achieving **79%** forecast accuracy.
+ * **Developed** combined Demand Forecast and Price Elasticity models to support dynamic price optimization, achieving **83%** model accuracy and driving improvements in margin and revenue.
+**Education**
+**Bachelor of Engineering, Electronics and Communication** | 2017 - 2021
+PES University
+**Awards**
+ * **GEM Award**, Primera Medical Technologies (2025)
+ * **Best Performer of the Quarter (Data Science Team)**, Landmark Group (2022)
+### How to turn this into a perfect 1-Page PDF:
+ 1. **Copy the text above** and paste it into a blank **Google Doc** or **Microsoft Word** document.
+ 2. **Adjust the margins:** Go to Page Setup and change all your margins (Top, Bottom, Left, Right) to **0.5 inches**. This ensures everything fits on one page without looking crowded.
+ 3. **Format the styling:**
+   * Make your Name font size **16 or 18** and bold.
+   * Make section headers (Skills, Experience) font size **12** and bold.
+   * Make the rest of the text font size **10 or 10.5**. (Use a clean font like Arial, Calibri, or Garamond).
+ 4. **Export to PDF:**
+   * *In Google Docs:* Click File > Download > PDF Document (.pdf).
+   * *In Word:* Click File > Save As > choose PDF from the dropdown format menu.
+**Why this version is stronger for Senior roles:** We replaced passive words with strong leadership verbs (*Architected, Spearheaded, Engineered, Scaled*). We grouped your skills into cleaner categories to save space. Finally, by deleting the outdated "Declaration" and condensing your awards and education, this will comfortably fit onto one high-impact page.
